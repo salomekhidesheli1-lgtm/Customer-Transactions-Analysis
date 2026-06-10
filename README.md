@@ -15,8 +15,10 @@ An end-to-end data analysis project focused on customer transaction data, coveri
 
 | File | Description |
 |------|-------------|
-| `transactions_analysis.sql` | SQL script containing data cleaning, EDA, and business insight queries |
-| `dashboard.pbix` | Interactive Power BI dashboard with visualizations and slicers |
+| `Customer Transactions Analysis with SQL.sql` | SQL script containing data cleaning, EDA, and business insight queries |
+| `Customer Transactions Analysis with Power BI.pbix` | Interactive Power BI dashboard with visualizations and slicers |
+| `Customer Transactions Analysis - Dashboard.png` | Dashboard screenshot preview |
+| `Raw Data.csv` | Original raw dataset |
 
 
 ## Data Cleaning
